@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi 🤙, I'm a backend developer working in Nice in the south of France
+
+#### Now
+
+- ⚽️ Work for  to [MyCoachPro](https://www.mycoach.pro/)
+- 🤖  Interested in Rust/Go and the software architecture
+- :calendar: Write some article for [HereWeCode](https://herewecode.io/fr/blog/author/hugomufraggi/) and make something soon :fire:
+
 
 <!--
 **Mufraggi/mufraggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

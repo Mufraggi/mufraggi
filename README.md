@@ -3,7 +3,7 @@
 #### Now
 
 - ⚽️ Work for  to [MyCoachPro](https://www.mycoach.pro/)
-- 🤖  Interested in Rust/Go and the software architecture
+- 🤖  Interested in Rust/Go/Scala and the software architecture
 - :calendar: Write some article for [HereWeCode](https://herewecode.io/fr/blog/author/hugomufraggi/) and make something soon :fire:
 
 

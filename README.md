@@ -4,7 +4,8 @@
 
 - ⚽️ Work for [MyCoachPro](https://www.mycoach.pro/)
 - 🤖  Interested in Rust/Go/Scala and the software architecture
-- :calendar: Write some articles for [HereWeCode](https://herewecode.io/fr/blog/author/hugomufraggi/). Stay tuned because something is coming :fire:
+- 📝 I regularly write articles on[HereWeCode](https://herewecode.io/fr/blog/author/hugomufraggi/)
+- :fire: Stay tuned because something is coming 
 
 
 

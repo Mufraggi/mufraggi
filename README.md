@@ -7,7 +7,9 @@
 - 📝 I regularly write articles on [HereWeCode](https://herewecode.io/fr/blog/author/hugomufraggi/)
 - :fire: Stay tuned because something is coming 
 
-
+#### Bio
+- ⚙️ I use daily: .scala, .go, .rust
+- 🌱 Learning all about Software architecture
 
 
 <h4 align="left">Languages and Tools:</h4>
@@ -17,7 +19,9 @@
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hugo-mufraggi-5b081b134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-mufraggi" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/hugo-mufraggi-5b081b134">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
 </p>
 
 <!--

@@ -2,7 +2,7 @@ name: Workflow Blog Post
 on:
   schedule:
     # Runs action every hour
-    - cron: '0 * 0 * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:

@@ -26,6 +26,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Créer un Middleware d’Authentification avec Actix Web en Rust](https://herewecode.io/fr/blog/creer-middleware-authentification-actix-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--

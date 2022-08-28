@@ -8,7 +8,7 @@
 - :fire: Stay tuned because something is coming 
 
 #### Bio
-- ⚙️ I use daily: .scala, .go, .rust
+- ⚙️ I use daily: .scala, .go, .rs
 - 🌱 Learning all about Software architecture
 - 📝 Checkout my [Resume](files/Mufraggi.pdf).
 

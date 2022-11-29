@@ -19,6 +19,8 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD architecture hexagonale](https://herewecode.io/fr/blog/tdd-architecture-hexagonale/)
+- [Créer un Middleware d’Authentification avec Actix Web en Rust](https://herewecode.io/fr/blog/creer-middleware-authentification-actix-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>

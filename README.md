@@ -19,6 +19,7 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Actix TDD architecture hexagonale part 3 API](https://medium.com/@hmufraggi/rust-actix-tdd-architecture-hexagonale-part-3-api-7519afef3845?source=rss-3eb56f6f10df------2)
 - [Rust Actix TDD architecture hexagonale part 2](https://medium.com/@hmufraggi/rust-actix-tdd-architecture-hexagonale-part-2-c4c28d409820?source=rss-3eb56f6f10df------2)
 - [Rust Actix TDD architecture hexagonale part 1](https://medium.com/@hmufraggi/rust-actix-tdd-architecture-hexagonale-part-1-6d4ba77afc7c?source=rss-3eb56f6f10df------2)
 - [Créer un Middleware d’Authentification avec Actix Web en Rust](https://medium.com/@hmufraggi/cr%C3%A9er-un-middleware-dauthentification-avec-actix-web-en-rust-33ae4b71a1f5?source=rss-3eb56f6f10df------2)

@@ -19,11 +19,11 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Développer client API go pour lambda AWS](https://medium.com/@hmufraggi/d%C3%A9velopper-client-api-go-pour-lambda-aws-5ce40951238e?source=rss-3eb56f6f10df------2)
 - [Crée un ETL en go avec AWS lambda](https://medium.com/@hmufraggi/cr%C3%A9e-un-etl-en-go-avec-aws-lambda-a7c6c61bfb22?source=rss-3eb56f6f10df------2)
 - [Dockeriser votre Actix backend](https://medium.com/@hmufraggi/dockeriser-votre-actix-backend-6ad821b2784b?source=rss-3eb56f6f10df------2)
 - [Rust Actix TDD architecture hexagonale part 3 API](https://medium.com/@hmufraggi/rust-actix-tdd-architecture-hexagonale-part-3-api-7519afef3845?source=rss-3eb56f6f10df------2)
 - [Rust Actix TDD architecture hexagonale part 2](https://medium.com/@hmufraggi/rust-actix-tdd-architecture-hexagonale-part-2-c4c28d409820?source=rss-3eb56f6f10df------2)
-- [Rust Actix TDD architecture hexagonale part 1](https://medium.com/@hmufraggi/rust-actix-tdd-architecture-hexagonale-part-1-6d4ba77afc7c?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>

@@ -10,7 +10,7 @@
 #### Bio
 - ⚙️ I use daily: .scala, .go, .rs
 - 🌱 Learning all about Software architecture
-- 📝 Checkout my [Resume](files/Mufraggi.pdf).
+- 📝 Checkout my [Resume](files/Mufraggi_hugo.pdf).
 
 
 <h4 align="left">Languages and Tools:</h4>

@@ -2,8 +2,8 @@
 
 #### Now
 
-- 💼 open to work
-- 🤖  Interested in Rust/Go/Scala and the software architecture
+- 💼 Open to work
+- 🤖 Interested in Rust/Go/Scala and the software architecture
 - 📝 I regularly write articles on [Medium](https://medium.com/@hmufraggi)
 - :fire: Stay tuned because something is coming 
 

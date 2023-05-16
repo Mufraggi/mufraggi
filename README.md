@@ -2,9 +2,9 @@
 
 #### Now
 
-- ⚽️ Work for [MyCoachPro](https://www.mycoach.pro/)
+- 💼 open to work
 - 🤖  Interested in Rust/Go/Scala and the software architecture
-- 📝 I regularly write articles on [HereWeCode](https://herewecode.io/fr/blog/author/hugomufraggi/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@hmufraggi)
 - :fire: Stay tuned because something is coming 
 
 #### Bio

@@ -19,11 +19,11 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Data with Streamlit in Python](https://medium.com/@hmufraggi/exploring-data-with-streamlit-in-python-89d4ea637c03?source=rss-3eb56f6f10df------2)
 - [Write your first scraper in Rust](https://medium.com/@hmufraggi/write-your-first-scraper-in-rust-09d9a643a27f?source=rss-3eb56f6f10df------2)
 - [Generate DB documentation and deploy in GitHub](https://blog.devops.dev/generate-db-documentation-and-deploy-in-github-4ef7a3132401?source=rss-3eb56f6f10df------2)
 - [Design Pattern Real-Life — Builder](https://blog.stackademic.com/design-pattern-real-life-builder-bdf9a7730245?source=rss-3eb56f6f10df------2)
 - [[Part 1] Créer un workflow gitops pour vos migration sql](https://medium.com/@hmufraggi/part-1-cr%C3%A9er-un-workflow-gitops-pour-vos-migration-sql-4342f8ad314c?source=rss-3eb56f6f10df------2)
-- [Data warehouse Rabbitmq et python](https://medium.com/@hmufraggi/data-warehouse-rabbitmq-et-python-169aae2c31a1?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>

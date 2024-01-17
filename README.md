@@ -19,11 +19,11 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Part 2] — TDD Rust Service](https://medium.com/@hmufraggi/part-2-tdd-rust-service-c9e54008b429?source=rss-3eb56f6f10df------2)
 - [Vector Db First step](https://medium.com/@hmufraggi/vector-db-first-step-33d0e5df6e65?source=rss-3eb56f6f10df------2)
-- [TTD Rust Sql Repository](https://medium.com/@hmufraggi/ttd-rust-sql-repository-5d453c2d3e0e?source=rss-3eb56f6f10df------2)
+- [[Part 1] — TTD Rust Sql Repository](https://medium.com/@hmufraggi/ttd-rust-sql-repository-5d453c2d3e0e?source=rss-3eb56f6f10df------2)
 - [Dockerise rust actix app](https://medium.com/@hmufraggi/dockerise-rust-actix-app-c6f530f719f9?source=rss-3eb56f6f10df------2)
 - [Exploring Data with Streamlit in Python](https://medium.com/@hmufraggi/exploring-data-with-streamlit-in-python-89d4ea637c03?source=rss-3eb56f6f10df------2)
-- [Write your first scraper in Rust](https://medium.com/@hmufraggi/write-your-first-scraper-in-rust-09d9a643a27f?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>

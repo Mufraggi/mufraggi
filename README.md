@@ -19,11 +19,11 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Create API with effect ts](https://medium.com/@hmufraggi/create-api-with-effect-ts-c1f9c2ead05e?source=rss-3eb56f6f10df------2)
 - [Effect Typescript SQL Repository](https://medium.com/@hmufraggi/effect-typescript-sql-repository-46ea65400069?source=rss-3eb56f6f10df------2)
 - [Effect Typescript Database Migration](https://medium.com/@hmufraggi/effect-typescript-database-migration-804d71fb8564?source=rss-3eb56f6f10df------2)
 - [Composition Pattern in Golang by practice](https://medium.com/@hmufraggi/composition-pattern-in-golang-by-practice-63a4dc19e51a?source=rss-3eb56f6f10df------2)
 - [[Part 2] — TDD Rust Service](https://medium.com/@hmufraggi/part-2-tdd-rust-service-c9e54008b429?source=rss-3eb56f6f10df------2)
-- [Vector Db First step](https://medium.com/@hmufraggi/vector-db-first-step-33d0e5df6e65?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>

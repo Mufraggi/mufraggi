@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Building Robust Python Projects: Essential Tools and CI/CD Practices](https://blog.stackademic.com/building-robust-python-projects-essential-tools-and-ci-cd-practices-39e890d9bc8a?source=rss-3eb56f6f10df------2)
 - [Lessons Learned from Migrating Our SaaS Backend: A Developer’s Story](https://blog.devops.dev/lessons-learned-from-migrating-our-saas-backend-a-developers-story-7872392ac5c6?source=rss-3eb56f6f10df------2)
-- [TypeScript Branded &amp; Type](https://medium.com/@hmufraggi/typescript-branded-type-81b227d9fd52?source=rss-3eb56f6f10df------2)
+- [TypeScript Branded &amp; Type](https://towardsdev.com/typescript-branded-type-81b227d9fd52?source=rss-3eb56f6f10df------2)
 - [Create API with effect ts](https://medium.com/@hmufraggi/create-api-with-effect-ts-c1f9c2ead05e?source=rss-3eb56f6f10df------2)
 - [Effect Typescript SQL Repository](https://medium.com/@hmufraggi/effect-typescript-sql-repository-46ea65400069?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->

@@ -19,7 +19,7 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Robust Python Projects: Mastering Dependency Injection, Protocols, and Abstract Base…](https://blog.stackademic.com/building-robust-python-projects-mastering-dependency-injection-protocols-and-abstract-base-f66b136fb255?source=rss-3eb56f6f10df------2)
+- [Building Robust Python Projects: Mastering Dependency Injection, Protocols, and Abstract Base…](https://medium.com/@hmufraggi/building-robust-python-projects-mastering-dependency-injection-protocols-and-abstract-base-f66b136fb255?source=rss-3eb56f6f10df------2)
 - [Building Robust Python Projects: Essential Tools and CI/CD Practices](https://blog.stackademic.com/building-robust-python-projects-essential-tools-and-ci-cd-practices-39e890d9bc8a?source=rss-3eb56f6f10df------2)
 - [Lessons Learned from Migrating Our SaaS Backend: A Developer’s Story](https://medium.com/@hmufraggi/lessons-learned-from-migrating-our-saas-backend-a-developers-story-7872392ac5c6?source=rss-3eb56f6f10df------2)
 - [TypeScript Branded &amp; Type](https://towardsdev.com/typescript-branded-type-81b227d9fd52?source=rss-3eb56f6f10df------2)

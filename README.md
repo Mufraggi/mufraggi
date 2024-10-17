@@ -19,11 +19,11 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Faster with Nx: A Monorepo Case Study](https://medium.com/@hmufraggi/building-faster-with-nx-a-monorepo-case-study-a519955f4d4c?source=rss-3eb56f6f10df------2)
 - [Why You Should Learn F# in 2024](https://medium.com/@hmufraggi/why-you-should-learn-f-in-2024-6b6ad407bb4a?source=rss-3eb56f6f10df------2)
 - [Go Dependency Injection: Practical Tips for Better Code](https://medium.com/@hmufraggi/go-dependency-injection-practical-tips-for-better-code-49e0bccb6f4f?source=rss-3eb56f6f10df------2)
 - [Master Python: 5 Tips for Writing Efficient and Maintainable Code](https://medium.com/@hmufraggi/master-python-5-tips-for-writing-efficient-and-maintainable-code-7cd427e79ec6?source=rss-3eb56f6f10df------2)
 - [Building Robust Python Projects: Mastering Dependency Injection, Protocols, and Abstract Base…](https://medium.com/@hmufraggi/building-robust-python-projects-mastering-dependency-injection-protocols-and-abstract-base-f66b136fb255?source=rss-3eb56f6f10df------2)
-- [Building Robust Python Projects: Essential Tools and CI/CD Practices](https://blog.stackademic.com/building-robust-python-projects-essential-tools-and-ci-cd-practices-39e890d9bc8a?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>

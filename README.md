@@ -19,11 +19,11 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Democratizing Data Access with Metabase: Deployment Guide on OVH](https://medium.com/@hmufraggi/democratizing-data-access-with-metabase-deployment-guide-on-ovh-d71e7faf53d2?source=rss-3eb56f6f10df------2)
 - [Building a Web App with Go and HTMX: My Experience](https://medium.com/@hmufraggi/building-a-web-app-with-go-and-htmx-my-experience-451f14de55a3?source=rss-3eb56f6f10df------2)
 - [Effortless React Deployment: A Step-by-Step Guide with Kamal](https://medium.com/@hmufraggi/effortless-react-deployment-a-step-by-step-guide-with-kamal-8d8d3e9cfb39?source=rss-3eb56f6f10df------2)
 - [Advent of Code: A Learning Journey in F # Day 2](https://medium.com/@hmufraggi/advent-of-code-a-learning-journey-in-f-day-1-4d60388a0f9d?source=rss-3eb56f6f10df------2)
 - [Advent of Code: A Learning Journey in F # Day 1](https://medium.com/@hmufraggi/advent-of-code-a-learning-journey-in-f-day-1-a05ef938e2c4?source=rss-3eb56f6f10df------2)
-- [Creating a Chess Engine in F# Using Domain-Driven Design Principles](https://medium.com/@hmufraggi/creating-a-chess-engine-in-f-using-domain-driven-design-principles-37d837912461?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>

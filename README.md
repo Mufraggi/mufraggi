@@ -19,11 +19,11 @@
 <h4 align="left">Articles</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LLM Infrastructure with Otoroshi: A DevOps Guide to API Resilience](https://medium.com/@hmufraggi/mastering-llm-infrastructure-with-otoroshi-a-devops-guide-to-api-resilience-05a64f9a8557?source=rss-3eb56f6f10df------2)
 - [Building an ETL in F# — Part 2: MongoDB Repository with Interpreter Pattern](https://medium.com/@hmufraggi/building-an-etl-in-f-part-2-mongodb-repository-with-interpreter-pattern-dbb354e45483?source=rss-3eb56f6f10df------2)
 - [Building an ETL in F# — Part 1: HTTP Client with Currying Pattern](https://medium.com/@hmufraggi/building-an-etl-in-f-part-1-http-client-with-currying-pattern-5268e36d88e0?source=rss-3eb56f6f10df------2)
 - [Democratizing Data Access with Metabase: Deployment Guide on OVH](https://medium.com/@hmufraggi/democratizing-data-access-with-metabase-deployment-guide-on-ovh-d71e7faf53d2?source=rss-3eb56f6f10df------2)
 - [Building a Web App with Go and HTMX: My Experience](https://medium.com/@hmufraggi/building-a-web-app-with-go-and-htmx-my-experience-451f14de55a3?source=rss-3eb56f6f10df------2)
-- [Effortless React Deployment: A Step-by-Step Guide with Kamal](https://medium.com/@hmufraggi/effortless-react-deployment-a-step-by-step-guide-with-kamal-8d8d3e9cfb39?source=rss-3eb56f6f10df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>
